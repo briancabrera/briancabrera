@@ -3,7 +3,7 @@
 I navigate the intersection of engineering, product, and business. I build infrastructures that scale, but the questions that matter most to me are always one level above the code.
 
 **Current Status:** 
-I have no interest in bootstrapping another solo startup right now. I'm looking to join an **early-stage team (pre-seed/seed)** already in the trenches, tackling hard problems in engineering (Node/TS/Postgres) and architecture.
+I have no interest in bootstrapping another solo startup right now. I'm looking to join an **early-stage team (pre-seed/seed)** already in the trenches, tackling hard problems in engineering and architecture.
 
 ### 🏗️ Case Studies & Tools
 
