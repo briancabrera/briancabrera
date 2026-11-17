@@ -1,16 +1,16 @@
-## Hi there 👋
+## Brian Cabrera — Software Engineer & Product Builder
 
-<!--
-**briancabrera/briancabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I navigate the intersection of engineering, product, and business. I build infrastructures that scale, but the questions that matter most to me are always one level above the code.
 
-Here are some ideas to get you started:
+**Current Status:** 
+I have no interest in bootstrapping another solo startup right now. I'm looking to join an **early-stage team (pre-seed/seed)** already in the trenches, tackling hard problems in backend engineering (Node/TS/Postgres) and architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Case Studies & Tools
+
+* **[BioLink: Architecture Post-Mortem](https://biolink.briancabrera.com/en)**
+  Designed the backend for a biometric loyalty network. Zero-trust, AWS Rekognition, and ACID transactions. The project was paused with production-ready code. 
+  *(Note: The infrastructure repositories are kept private due to their architectural value, but I gladly grant read access to CTOs/founders for technical review upon request).*
+* **[TraceVault](https://tracevault.briancabrera.com/en)**
+  Open-source audit library for Node.js and PostgreSQL, designed to help B2B startups pass SOC2 compliance without cluttering their business logic.
+
+🔗 **[briancabrera.com](https://briancabrera.com)**
